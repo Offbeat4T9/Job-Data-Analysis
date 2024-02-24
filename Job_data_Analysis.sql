@@ -4,7 +4,7 @@ from MyPortfolio.dbo.Job_data;
 
 --------------------------------------=-----------------------DATA CLEANING--------------------------------------------------------------------------
 --1. Converting the salary given from string to integer and take the minimum salary from range
---2. Format the salary and convert it into Lakhs per annum
+--2. Standardize salary into Lakhs per annum
 --3. Handling missing value using central tendencies 
 --4. Dropping useless columns
 
